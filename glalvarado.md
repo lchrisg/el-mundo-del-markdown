@@ -7,5 +7,5 @@
 
 ### 📚 Bootcamp Full-Stack JavaScript - Guillermo Rodas en Udefined Academy
 
-1. p
-2. w
+1. pw2
+2. w32
